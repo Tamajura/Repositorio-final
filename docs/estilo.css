@@ -1,0 +1,103 @@
+#cabecalho ul{
+    display: inline-block;
+}
+#cabecalho ul li{
+    display: inline-block;
+    font-size: 20pt;
+    color: rgb(0, 0, 0);
+}
+.logotipo{
+    width: 100px;
+}
+body{
+    background-color: aliceblue;
+}
+#fotinho{
+    /*background: black;*/
+    height: 80vh;
+    margin: 0 auto;
+    text-align: center;
+}
+.seja{
+    width: 50%;
+    height: 70%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+#esq{
+    float: left;
+    /*background-color: blue;*/
+    margin-left: 15%;
+    margin-right: 2.5%;
+    margin-top: 10%;
+    border: dashed black;
+}
+#dir{
+    float: right;
+    /*background-color: red;*/
+    margin-right: 25%;
+    margin-top: 10%;
+    border: dashed black;
+}
+#meio{
+    display: inline-block;
+    /*background-color: green;*/
+    margin-left: 2.5%;
+    margin-top: 10%;
+    border: dashed black;
+}
+#left{
+    width: 30%;
+    height: 70vh;
+    /*background-color: aqua;*/
+    float: left;
+}
+#center{
+    width: 30%;
+    height: 70vh;
+    /*background-color: red;*/
+    float: left;
+}
+#right{ 
+    width: 30%;
+    height: 70vh;
+    /*background-color: green;*/
+    float: left;
+}
+.dedo{
+    width: 83%;
+    padding-top: 13%;
+    padding-bottom: 2.5%;
+    padding-left: 17%;
+}
+.ritmo{
+    width: 83%;
+    padding-top: 2.5%;
+    padding-left: 17%;
+}
+.torneira{
+    width: 83%;
+    padding-top: 13%;
+    padding-bottom: 2.5%;
+    padding-left: 10%;
+    padding-right:20%;
+}
+.preta{
+    width: 83%;
+    padding-top: 2.5%;
+    padding-left: 10%;
+    padding-right:20%;
+}
+.relogio{
+    width: 83%;
+    padding-top: 13%;
+    padding-bottom: 2.5%;
+    padding-left: 10%;
+    padding-right:20%;
+}
+.mute{
+    width: 83%;
+    padding-top: 2.5%;
+    padding-left: 10%;
+    padding-right:20%;
+}
